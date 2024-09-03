@@ -1,6 +1,7 @@
 # teste_tecnico
 
-Projeto Flutter para Vaga de Estágio em Desenvolvimento
+Projeto Flutter para Vaga de Estágio em Desenvolvimento.
+
 Este projeto foi desenvolvido como parte do processo seletivo para uma vaga de estágio em desenvolvimento.
 
 
